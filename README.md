@@ -18,8 +18,7 @@ Your project directory should have the following structure:
 |-- server.py
 |-- htdocs/
 |   |-- index.php
-|   |-- multiply.php
-|   |-- style.css
+|   |-- add.php
 |   |-- ...
 |-- README.md (this file)
 ```
